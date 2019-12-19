@@ -1,2 +1,2 @@
-# another_boring_weather_app
+# Another Boring Weather App
 Flutter Weather App 
